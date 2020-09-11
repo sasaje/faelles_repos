@@ -6,6 +6,9 @@ public class Faelles_repos {
 
         var member = "Malte";
         System.out.println(member + " is a capable member of this team");
+
+        System.out.println("Hello This is Laila");
+        System.out.println("I study Computer Science at Zealand, Naestved!");
     }
 
 
