@@ -9,6 +9,9 @@ public class Faelles_repos {
 
         System.out.println("Hello This is Laila");
         System.out.println("I study Computer Science at Zealand, Naestved!");
+
+        System.out.print("Hello this is ");
+        System.out.println("Louise");
     }
 
 
