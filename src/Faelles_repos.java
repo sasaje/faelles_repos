@@ -12,8 +12,10 @@ public class Faelles_repos {
 
         System.out.print("Hello this is ");
         System.out.println("Louise");
+
+        System.out.println("");
+        var memberLast = "Sara";
+        System.out.println("And I'm " + memberLast + " and I'm also in this group");
     }
-
-
 }
 
